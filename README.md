@@ -1,7 +1,5 @@
-========================================================
         COMPARATIVO DE ALGORITMOS DE ORDENAÇÃO
  Disciplina: Resolução de Problemas Estruturados em Computação
-========================================================
 
 
 ALGORITMOS IMPLEMENTADOS
@@ -16,9 +14,8 @@ ALGORITMOS IMPLEMENTADOS
 (Implementação sem uso de Arrays.sort(), ArrayList etc.)
 
 
-========================================================
+
 TABELAS DE RESULTADOS
-========================================================
 
 
 VETOR 1 (DESORDENADO)
@@ -66,9 +63,7 @@ Melhor em trocas: Selection Sort
 Melhor em iterações: Bucket Sort
 
 
-========================================================
 RANKINGS GERAIS
-========================================================
 
 
 MENOS TROCAS (MÉDIA GERAL)
@@ -95,9 +90,7 @@ Posição | Algoritmo       | Média de Iterações
 6º      | Selection Sort  | 190.00
 
 
-========================================================
 CONCLUSÕES
-========================================================
 
 - Bucket Sort apresentou o melhor desempenho em iterações, funcionando próximo do tempo linear.
 - Selection Sort foi o que menos realizou trocas, pois troca apenas uma vez por posição.
@@ -108,4 +101,3 @@ CONCLUSÕES
   evitam processamento desnecessário.
 - Em vetores decrescentes, o Selection Sort realiza menos trocas mesmo com alto número de comparações.
 
-========================================================
